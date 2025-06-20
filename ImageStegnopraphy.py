@@ -173,8 +173,8 @@ class ImageSteganographyGUI:
         password_list = [f"{user}@{number}" for user in common_users for number in common_numbers]
         password_list += [
             "Admin@1234", "User@0000", "Test@1111",
-            "Shristi@2023", "Guest@4444", "Shristi@1510",
-            "shristi@1234", "user@1510", "test@1111",
+            "Trial@2023", "Guest@4444", "Trail@1510",
+            "trial@1234", "user@1510", "test@1111",
             "admin@0000", "guest@2023", "user@4444"
         ]
 
